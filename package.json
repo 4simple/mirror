@@ -1,0 +1,21 @@
+{
+  "name": "mirror",
+  "version": "0.0.1",
+  "description": "mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4simple/mirror.git"
+  },
+  "keywords": [
+    "mirror"
+  ],
+  "author": "wondger@qq.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/4simple/mirror/issues"
+  }
+}
